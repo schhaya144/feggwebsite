@@ -1,0 +1,52 @@
+.header {
+    font-family: Arial, sans-serif;
+  }
+  
+  .text-primary {
+    color: #fd645b; /* Match the red color */
+  }
+  
+  .bg-primary {
+    background-color: #fd645b;
+  }
+  
+  .bg-primary-dark {
+    background-color: #b92b2b;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin: 0;
+  }
+  /* Styling for the navigation links */
+.nav-link {
+  text-transform: uppercase;
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-link:hover {
+  color: #d23232; /* Primary color on hover */
+}
+
+.active-link {
+  color: #d23232; /* Primary color for the active link */
+}
+
+/* Dropdown menu styling */
+.dropdown-item {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #333;
+  text-decoration: none;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.dropdown-item:hover {
+  background-color: #f9f9f9;
+  color: #d23232; /* Primary color for hover */
+}

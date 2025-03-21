@@ -1,0 +1,16 @@
+.swiper-pagination{
+    position: absolute;
+    bottom:-100px;
+}
+.swiper-pagination-bullet {
+    background: rgba(0, 0, 0, 0.5); /* Bullet color */
+    width: 12px; /* Bullet size */
+    height: 12px; /* Bullet size */
+    margin: 0 6px; /* Horizontal spacing between bullets */
+    transition: background 0.3s, width 0.3s; /* Smooth transition */
+}
+
+.swiper-pagination-bullet-active {
+    background: #04471C; /* Green color for active bullet */
+    width: 16px; /* Larger bullet for active state */
+}

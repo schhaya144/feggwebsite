@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: auto;
+}
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: white;
+  }
+}
+
+.typewriter h2 {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 0.15em solid white;
+  animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;
+}
+
+/* Gallery */
+
+.galleryContainer {
+  width: 95%;
+  /* height: 100vh; */
+  position: relative;
+  margin: 0 auto;
+}
+
+.galleryContainer .media-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 15px;
+  margin: 20px auto;
+}
+.galleryContainer .media-container .media-image {
+  height: 220px;
+  width: 100%;
+  border: 2px solid #FD645B;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.7);
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.galleryContainer .media-container .media img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  transition: all 0.3s linear;
+}
+
+.galleryContainer .media-container .media:hover :is(img) {
+  transform: scale(1.1);
+}
+
+.galleryContainer .popup-media {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  background: rgba(0, 0, 0, 0.8);
+  width: 100%;
+  height: 100%;
+}
+
+.galleryContainer .popup-media img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: block;
+  max-width: 95%;
+  max-height: 95%;
+  object-fit: contain;
+  border: 5px solid #fff;
+}
+
+.galleryContainer .popup-media span {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+  font-size: 50px;
+  font-weight: bold;
+  z-index: 100;
+  cursor: pointer;
+  color: #fff;
+  user-select: none;
+}
+.highlight {
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+  padding: 2px;
+}

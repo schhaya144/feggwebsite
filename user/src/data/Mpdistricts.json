@@ -1,0 +1,784 @@
+ {
+  "AgarMalwa": {
+    "tehsils": ["Agar", "Badod", "Nalkheda", "Soyatkala", "Susner"],
+    "blocks": ["Agar", "Barod", "Nalkheda", "Susner"]
+  },
+  "Alirajpur": {
+    "tehsils": [
+      "Alirajpur",
+      "Chandra Shekhar Azad Nagar",
+      "Jobat",
+      "Katthiwara",
+      "Sondawa"
+    ],
+    "blocks": [
+      "Alirajpur",
+      "Bhabra",
+      "Jobat",
+      "Katthiwada",
+      "Sondwa",
+      "Udaigarh"
+    ]
+  },
+  "Anuppur": {
+    "tehsils": ["Anuppur", "Jaithari", "Kotma", "Pushparajgarh"],
+    "blocks": ["Anuppur", "Jaithari", "Kotma", "Pushprajgarh"]
+  },
+  "Ashoknagar": {
+    "tehsils": [
+      "Ashoknagar",
+      "Bahadurpur",
+      "Chanderi",
+      "Isagarh",
+      "Mungaoli",
+      "Nai Sarai",
+      "Piprai",
+      "Shadhora"
+    ],
+    "blocks": ["Ashoknagar", "Chanderi", "Isagarh", "Mungaoli"]
+  },
+  "Balaghat": {
+    "tehsils": [
+      "Baihar",
+      "Balaghat",
+      "Birsa",
+      "Katangi",
+      "Khairlanji",
+      "Kirnapur",
+      "Lalbarra",
+      "Lamta",
+      "Lanji",
+      "Paraswada",
+      "Tirodi",
+      "Waraseoni"
+    ],
+    "blocks": [
+      "Baihar",
+      "Balaghat",
+      "Birsa",
+      "Katangi",
+      "Khairlanji",
+      "Kirnapur",
+      "Lalbarra",
+      "Lanji",
+      "Paraswada",
+      "Waraseoni"
+    ]
+  },
+  "Barwani": {
+    "tehsils": [
+      "Anjad",
+      "Barwani",
+      "Niwali",
+      "Pansemal",
+      "Pati",
+      "Rajpur",
+      "Sendhwa",
+      "Thikri",
+      "Varla"
+    ],
+    "blocks": [
+      "Barwani",
+      "Newali",
+      "Pansemal",
+      "Pati",
+      "Rajpur",
+      "Sendhawa",
+      "Thikri"
+    ]
+  },
+  "Betul": {
+    "tehsils": [
+      "Amla",
+      "Athner",
+      "Betul",
+      "Betul Nagar",
+      "Bhainsdehi",
+      "Bhimpur",
+      "Chicholi",
+      "Ghoda Dongri",
+      "Multai",
+      "Prabhatpttan",
+      "Shahpur"
+    ],
+    "blocks": [
+      "Amla",
+      "Athner",
+      "Betul",
+      "Bhainsdehi",
+      "Bhimpur",
+      "Chicholi",
+      "Ghoradongri",
+      "Multai",
+      "Prabhat Pattan",
+      "Shahpur"
+    ]
+  },
+  "Bhind": {
+    "tehsils": [
+      "Ater",
+      "Bhind",
+      "Bhind Nagar",
+      "Gohad",
+      "Gormi",
+      "Lahar",
+      "Mau",
+      "Mehgaon",
+      "Mihona",
+      "Ron"
+    ],
+    "blocks": ["Ater", "Bhind", "Gohad", "Lahar", "Mehgaon", "Raon"]
+  },
+  "Bhopal": {
+    "tehsils": ["Berasia", "Huzur", "Kolar"],
+    "blocks": ["Berasia", "Phanda"]
+  },
+  "Burhanpur": {
+    "tehsils": [
+      "Burhanpur",
+      "Burhanpur Nagar",
+      "Dhulcot",
+      "Khaknar",
+      "Nepanagar"
+    ],
+    "blocks": ["Burhanpur", "Khaknar"]
+  },
+  "Chhatarpur": {
+    "tehsils": [
+      "Bada Malhera",
+      "Bijawar",
+      "Buxwaha",
+      "Chandla",
+      "Chhatarpur",
+      "Chhatarpur Nagar",
+      "Gaurihar",
+      "Ghuwara",
+      "Lavkush Nagar",
+      "Maharajpur",
+      "Nowgong",
+      "Rajnagar",
+      "Satai"
+    ],
+    "blocks": [
+      "Bada Malehara",
+      "Barigarh",
+      "Bijawar",
+      "Buxwaha",
+      "Chhatarpur",
+      "Lavkush Nagar",
+      "Nowgong",
+      "Rajnagar"
+    ]
+  },
+  "Chhindwara": {
+    "tehsils": [
+      "Amarwara",
+      "Bichhua",
+      "Chand",
+      "Chaurai",
+      "Chhindwara",
+      "Chhindwara Nagar",
+      "Harrai",
+      "Jamai (Junnardeo)",
+      "Mohkhed",
+      "Parasia",
+      "Tamia",
+      "Umreth"
+    ],
+    "blocks": [
+      "Amarwara",
+      "Bichhua",
+      "Chaurai",
+      "Chhindwara",
+      "Harrai",
+      "Jamai",
+      "Mohkhed",
+      "Parasia",
+      "Tamia"
+    ]
+  },
+  "Damoh": {
+    "tehsils": [
+      "Batiyagarh",
+      "Damoh",
+      "Damyanti Nagar",
+      "Hatta",
+      "Jabera",
+      "Patera",
+      "Patharia",
+      "Tendukheda"
+    ],
+    "blocks": [
+      "Batiyagarh",
+      "Damoh",
+      "Hatta",
+      "Jabera",
+      "Patera",
+      "Pathariya",
+      "Tendukheda"
+    ]
+  },
+  "Datia": {
+    "tehsils": [
+      "Baroni",
+      "Bhander",
+      "Datia",
+      "Datia Nagar",
+      "Indergarh",
+      "Seondha"
+    ],
+    "blocks": ["Bhander", "Datia", "Seondha"]
+  },
+  "Dewas": {
+    "tehsils": [
+      "Bagli",
+      "Dewas",
+      "Dewas Nagar",
+      "Hatpiplya",
+      "Kannod",
+      "Khategaon",
+      "Satwas",
+      "Sonkatch",
+      "Tonk Khurd",
+      "Udaynagar"
+    ],
+    "blocks": [
+      "Bagli",
+      "Dewas",
+      "Kannod",
+      "Khategaon",
+      "Sonkatch",
+      "Tonk Khurd"
+    ]
+  },
+  "Dhar": {
+    "tehsils": [
+      "Badnawar",
+      "Dahi",
+      "Dhar",
+      "Dharampuri",
+      "Gandhwani",
+      "Kukshi",
+      "Manawar",
+      "Pithampur",
+      "Sardarpur"
+    ],
+    "blocks": [
+      "Badnawar",
+      "Bagh",
+      "Dahi",
+      "Dhar",
+      "Dharampuri",
+      "Gandhwani",
+      "Kukshi",
+      "Manawar",
+      "Nalchha",
+      "Nisarpur",
+      "Sardarpur",
+      "Tirla",
+      "Umarban"
+    ]
+  },
+  "Dindori": {
+    "tehsils": ["Bajag", "Dindori", "Shahpura"],
+    "blocks": [
+      "Amarpur",
+      "Bajag",
+      "Dindori",
+      "Karanjiya",
+      "Mehandwani",
+      "Samnapur",
+      "Shahpura"
+    ]
+  },
+  "Guna": {
+    "tehsils": [
+      "Aron",
+      "Bamori",
+      "Chachaura",
+      "Guna",
+      "Guna Nagar",
+      "Kumbhraj",
+      "Maksoodangarh",
+      "Raghogarh"
+    ],
+    "blocks": ["Aron", "Bamori", "Chanchoda", "Guna", "Raghogarh"]
+  },
+  "Gwalior": {
+    "tehsils": [
+      "Bhitarwar",
+      "Chinour",
+      "City Center",
+      "Dabra",
+      "Ghatigaon",
+      "Gird",
+      "Gwalior Gramin",
+      "Morar",
+      "Pichhor",
+      "Tansen"
+    ],
+    "blocks": ["Bhitarwar", "Dabra", "Ghatigaon", "Morar"]
+  },
+  "Harda": {
+    "tehsils": [
+      "Handiya",
+      "Harda",
+      "Khirkiya",
+      "Rehatgaon",
+      "Sirali",
+      "Timarni"
+    ],
+    "blocks": ["Harda", "Khirkiya", "Timarni"]
+  },
+  "Indore": {
+    "tehsils": [
+      "Bicholi Hapsi",
+      "Depalpur",
+      "Dr. Ambedkar Nagar (Mhow)",
+      "Hatod",
+      "Indore",
+      "Kanadia",
+      "Khudel",
+      "Malharganj",
+      "Rau",
+      "Sanwer"
+    ],
+    "blocks": ["Depalpur", "Indore", "Mhow", "Sanwer"]
+  },
+  "Jabalpur": {
+    "tehsils": [
+      "Adhartal",
+      "Gorakhpur",
+      "Jabalpur",
+      "Kundam",
+      "Majholi",
+      "Panagar",
+      "Patan",
+      "Ranjhi",
+      "Shahpura",
+      "Sihora"
+    ],
+    "blocks": [
+      "Jabalpur",
+      "Kundam",
+      "Majhouli",
+      "Panagar",
+      "Patan",
+      "Shahpura",
+      "Sihora"
+    ]
+  },
+  "Jhabua": {
+    "tehsils": [
+      "Jhabua",
+      "Meghnagar",
+      "Petlawad",
+      "Rama",
+      "Ranapur",
+      "Thandla"
+    ],
+    "blocks": ["Jhabua", "Meghnagar", "Petlawad", "Rama", "Ranapur", "Thandla"]
+  },
+  "Katni": {
+    "tehsils": [
+      "Badwara",
+      "Bahoriband",
+      "Barhi",
+      "Dhimarkheda",
+      "Katni Nagar",
+      "Murwara Or Katni",
+      "Rithi",
+      "Sleemnabad",
+      "Vijayraghavgarh"
+    ],
+    "blocks": [
+      "Badwara",
+      "Bahoriband",
+      "Dheemerkheda",
+      "Katni",
+      "Rithi",
+      "Vijayraghavgarh"
+    ]
+  },
+  "Khandwa": {
+    "tehsils": [
+      "Chhaigaon Makhan",
+      "Harsud",
+      "Khalwa",
+      "Khandwa",
+      "Khandwa Nagar",
+      "Killod",
+      "Mundi",
+      "Pandhana",
+      "Punasa"
+    ],
+    "blocks": [
+      "Baladi",
+      "Chhaigaon Makhan",
+      "Harsud",
+      "Khalwa",
+      "Khandwa",
+      "Pandhana",
+      "Punasa"
+    ]
+  },
+  "Khargone": {
+    "tehsils": [
+      "Barwaha",
+      "Bhagwanpura",
+      "Bhikangaon",
+      "Gogaon",
+      "Jhiranya",
+      "Kasrawad",
+      "Khargone",
+      "Khargone Nagar",
+      "Maheshwar",
+      "Sanawad",
+      "Segaon"
+    ],
+    "blocks": [
+      "Barwah",
+      "Bhagvanpura",
+      "Bhikangaon",
+      "Gogawan",
+      "Kasrawad",
+      "Khargone",
+      "Maheshwar",
+      "Segaon",
+      "Ziranya"
+    ]
+  },
+  "Mauganj": {
+    "tehsils": ["Hanumana", "Mauganj", "Naigarhi"],
+    "blocks": ["Hanumana", "Mauganj", "Naigarhi"]
+  },
+  "Maihar": {
+    "tehsils": ["Amarpatan", "Maihar", "Ramnagar"],
+    "blocks": ["Amarpatan", "Maihar", "Ramnagar"]
+  },
+  "Mandla": {
+    "tehsils": [
+      "Bichhiya",
+      "Ghughari",
+      "Mandla",
+      "Nainpur",
+      "Narayanganj",
+      "Niwas"
+    ],
+    "blocks": [
+      "Bichhiya",
+      "Bijadandi",
+      "Ghughri",
+      "Mandla",
+      "Mawai",
+      "Mohgaon",
+      "Nainpur",
+      "Narayanganj",
+      "Niwas"
+    ]
+  },
+  "Mandsaur": {
+    "tehsils": [
+      "Bhanpura",
+      "Daloda",
+      "Garoth",
+      "Malhargarh",
+      "Mandsaur",
+      "Mandsaur Nagar",
+      "Shamgarh",
+      "Sitamau",
+      "Suwasara"
+    ],
+    "blocks": ["Bhanpura", "Garoth", "Malhargarh", "Mandsaur", "Sitamau"]
+  },
+  "Morena": {
+    "tehsils": [
+      "Ambah",
+      "Bamor",
+      "Joura",
+      "Kailaras",
+      "Morena",
+      "Morena Nagar",
+      "Porsa",
+      "Sabalgarh"
+    ],
+    "blocks": [
+      "Ambah",
+      "Joura",
+      "Kailaras",
+      "Morena",
+      "Pahadgarh",
+      "Porsa",
+      "Sabalgarh"
+    ]
+  },
+  "Narmadapuram": {
+    "tehsils": [
+      "Bankhedi",
+      "Dolariya",
+      "Hoshangabad",
+      "Hoshangabad Nagar",
+      "Itarsi",
+      "Makhan Nagar",
+      "Pipariya",
+      "Seoni Malwa",
+      "Sohagpur"
+    ],
+    "blocks": [
+      "Bankhedi",
+      "Kesla",
+      "Makhan Nagar",
+      "Narmadapuram",
+      "Pipariya",
+      "Seoni Malwa",
+      "Sohagpur"
+    ]
+  },
+  "Narsimhapur": {
+    "tehsils": [
+      "Bankhedi",
+      "Kesla",
+      "Makhan Nagar",
+      "Narmadapuram",
+      "Pipariya",
+      "Seoni Malwa",
+      "Sohagpur",
+      "Babai Chichali",
+      "Chawarpatha",
+      "Gotegaon",
+      "Kareli",
+      "Narsimhapur",
+      "Sainkheda"
+    ],
+    "blocks": []
+  },
+  "Neemuch": {
+    "tehsils": [
+      "Jawad",
+      "Jiran",
+      "Manasa",
+      "Neemuch",
+      "Neemuch Nagar",
+      "Rampura",
+      "Singoli"
+    ],
+    "blocks": ["Jawad", "Manasa", "Neemuch"]
+  },
+  "Niwari": {
+    "tehsils": ["Niwari", "Orchha", "Prithvipur"],
+    "blocks": ["Niwari", "Prithvipur"]
+  },
+  "Pandhurna": {
+    "tehsils": ["Pandhurna", "Sausar"],
+    "blocks": ["Pandhurna", "Sausar"]
+  },
+  "Panna": {
+    "tehsils": [
+      "Ajaygarh",
+      "Amanganj",
+      "Devendranagar",
+      "Gunnor",
+      "Panna",
+      "Pawai",
+      "Raipura",
+      "Shahnagar",
+      "Simariya"
+    ],
+    "blocks": ["Ajaigarh", "Gunour", "Panna", "Pawai", "Shahnagar"]
+  },
+  "Raisen": {
+    "tehsils": [
+      "Badi",
+      "Baraily",
+      "Begamganj",
+      "Deori",
+      "Gairatganj",
+      "Goharganj",
+      "Raisen",
+      "Silwani",
+      "Sultanpur",
+      "Udaipura"
+    ],
+    "blocks": [
+      "Badi",
+      "Begamganj",
+      "Gairatganj",
+      "Obaidallaganj",
+      "Sanchi",
+      "Silwani",
+      "Udaipura"
+    ]
+  },
+  "Rajgarh": {
+    "tehsils": [
+      "Biaora",
+      "Jeerapur",
+      "Khilchipur",
+      "Khujner",
+      "Narsinghgarh",
+      "Pachore",
+      "Rajgarh",
+      "Sarangpur",
+      "Suthaliya"
+    ],
+    "blocks": [
+      "Biaora",
+      "Khilchipur",
+      "Narsinghgarh",
+      "Rajgarh",
+      "Sarangpur",
+      "Zirapur"
+    ]
+  },
+  "Ratlam": {
+    "tehsils": [
+      "Alot",
+      "Bajna",
+      "Jaora",
+      "Piploda",
+      "Raoti",
+      "Ratlam",
+      "Ratlam Nagar",
+      "Sailana",
+      "Tal"
+    ],
+    "blocks": ["Alot", "Bajna", "Jaora", "Piploda", "Ratlam", "Sailana"]
+  },
+  "Rewa": {
+    "tehsils": [
+      "Gurh",
+      "Huzur",
+      "Huzur Nagar",
+      "Jawa",
+      "Mangawan",
+      "Raipur Karchuliyan",
+      "Semaria",
+      "Sirmour",
+      "Teonthar",
+      "Gangev"
+    ],
+    "blocks": ["Jawa", "Raipur Karchuliyan", "Rewa", "Sirmour", "Teonthar"]
+  },
+  "Sagar": {
+    "tehsils": [
+      "Banda",
+      "Bandari",
+      "Bina",
+      "Deori",
+      "Garhakota",
+      "Jaisinagar",
+      "Kesli",
+      "Khurai",
+      "Malthon",
+      "Rahatgarh",
+      "Rehli",
+      "Sagar",
+      "Sagar Nagar",
+      "Shahgarh"
+    ],
+    "blocks": [
+      "Banda",
+      "Bina",
+      "Deori",
+      "Jaisinagar",
+      "Kesli",
+      "Khurai",
+      "Malthone",
+      "Rahatgarh",
+      "Rehli",
+      "Sagar",
+      "Shahgarh"
+    ]
+  },
+  "Satna": {
+    "tehsils": [
+      "Birsinghpur",
+      "Kotar",
+      "Kothi",
+      "Majhgawan",
+      "Nagod",
+      "Raghurajnagar (Nagriya)",
+      "Rampur Baghelan",
+      "Unchehara"
+    ],
+    "blocks": ["Majhgawan", "Nagod", "Rampur Baghelan", "Sohawal", "Unchahara"]
+  },
+  "Sehore": {
+    "tehsils": [
+      "Ashta",
+      "Bhairunda",
+      "Budni",
+      "Doraha",
+      "Ichhawar",
+      "Jawar",
+      "Rehti",
+      "Sehore",
+      "Sehore Nagar",
+      "Shyampur"
+    ],
+    "blocks": ["Ashta", "Budni", "Ichhawar", "Nasrullaganj", "Sehore"]
+  },
+  "Seoni": {
+    "tehsils": [
+      "Barghat",
+      "Chhapara",
+      "Dhanora",
+      "Ghansaur",
+      "Keolari",
+      "Kurai",
+      "Lakhnadon",
+      "Seoni",
+      "Seoni Nagar"
+    ],
+    "blocks": [
+      "Barghat",
+      "Chhapara",
+      "Dhanaura",
+      "Kahnapas(Ghansaur)",
+      "Keolari",
+      "Kurai",
+      "Lakhnadon",
+      "Seoni"
+    ]
+  },
+  "Shahdol": {
+    "tehsils": ["Beohari", "Burhar", "Gohparu", "Jaisinghnagar", "Jaitpur", "Sohagpur"],
+    "blocks": ["Beohari", "Burhar", "Gohparu", "Jaisinghnagar", "Sohagpur"]
+  },
+  "Shajapur": {
+    "tehsils": ["Avantipur Barodia", "Gulana", "Kalapipal", "Moman Badodiya", "Polaykala", "Shajapur", "Shujalpur"],
+    "blocks": ["Kalapipal", "Moman Badodia", "Shajapur", "Shujalpur"]
+  },
+  "Sheopur": {
+    "tehsils": ["Badoda", "Beerpur", "Karahal", "Sheopur", "Vijaypur"],
+    "blocks": ["Karahal", "Sheopur", "Vijaypur"]
+  },
+  "Shivpuri": {
+    "tehsils": ["Badarwas", "Bairad", "Karera", "Khaniyadhana", "Kolaras", "Narwar", "Pichhore", "Pohri", "Rannod", "Shivpuri", "Shivpuri Nagar"],
+    "blocks": ["Badarwas", "Karera", "Khaniadhana", "Kolaras", "Narwar", "Pichhore", "Pohri", "Shivpuri"]
+  },
+  "Sidhi": {
+    "tehsils": ["Bahari", "Churhat", "Gopadbanas", "Kusmi", "Madwas", "Majhauli", "Rampur Naikin", "Sihawal"],
+    "blocks": ["Kusmi", "Majhauli", "Rampur Naikin", "Sidhi", "Sihawal"]
+  },
+  "Singrauli": {
+    "tehsils": ["Bargawan", "Chitrangi", "Deosar", "Dudhamania", "Mada", "Sarai", "Singrauli", "Singrauli Nagar"],
+    "blocks": ["Baidhan", "Chitrangi", "Devsar"]
+  },
+  "Tikamgarh": {
+    "tehsils": ["Badagaon (Dhasan)", "Baldeogarh", "Dighora", "Jatara", "Khargapur", "Lidhora", "Mohangarh", "Palera", "Tikamgarh"],
+    "blocks": ["Baldeogarh", "Jatara", "Palera", "Tikamgarh"]
+  },
+  "Ujjain": {
+    "tehsils": ["Badnagar", "Ghatiya", "Jharda", "Khacharod", "Kothi Mahal", "Mahidpur", "Makdon", "Nagda", "Tarana", "Ujjain", "Ujjain Nagar", "Unhel"],
+    "blocks": ["Badnagar", "Ghatiya", "Khacharod", "Mahidpur", "Tarana", "Ujjain"]
+  },
+  "Umaria": {
+    "tehsils": ["Bandhavgarh", "Bilaspur", "Chandia", "Karkeli", "Manpur", "Nowrozabad", "Pali"],
+    "blocks": ["Karkeli", "Manpur", "Pali"]
+  },
+  "Vidisha": {
+    "tehsils": ["Basoda", "Gulabganj", "Gyaraspur", "Kurwai", "Lateri", "Nateran", "Pathari", "Shamshabad", "Sironj", "Tyonda", "Vidisha", "Vidisha Nagar"],
+    "blocks": ["Basoda", "Gyaraspur", "Kurwai", "Lateri", "Nateran", "Sironj", "Vidisha"]
+  }
+}

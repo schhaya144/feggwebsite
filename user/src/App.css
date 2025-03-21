@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=New+Amsterdam&display=swap');
+
+body {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.text-primary {
+  color: #fd645b;
+}
+.bg-primary {
+  background-color: #fd645b;
+}
+.border-primary {
+  border: 2px solid #fd645b;
+}
+
+.text-secondary {
+  color: #f7b32b;
+}
+.bg-second {
+  background-color: #f7b32b;
+}
+.bg-second-hover {
+  background-color: #e99f0b;
+}
+.border-second {
+  border: 2px solid #f7b32b;
+}
+
+.text-second {
+  color: #f7b32b;
+}
+.white-bg {
+  background-color: rgb(255, 255, 255);
+}
+.heading01 {
+  font-weight: 600;
+  border-bottom: 3px ridge rgb(79, 143, 58);
+  color: #5a3817;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  line-height: 2.5rem;
+}
+
+/* .bg-image {
+  width: 100%;
+  height: 55vh;
+  background: url(./assets/moroccan.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+} */
+.hero {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden; /* Ensure the blur effect doesn't exceed the container */
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url(./assets/caraousel3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.9; /* Adjust opacity as needed */
+  filter: blur(1px); /* Adjust blur radius as needed */
+  z-index: -1; /* Ensure the background is behind the content */
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1; /* Ensure content is above the background */
+}
+
+.contactbg {
+  background-color: #dbefed;
+}
+.subheading {
+  margin-bottom: 48px;
+  font-size: 1rem;
+  line-height: 1.75rem;
+  font-weight: 450;
+  text-align: center;
+  /* margin-right: 47px; */
+}
+/* Swiper navigation button styles */
+.swiper-button-next,
+.swiper-button-prev {
+  color: black !important; /* Set color to black */
+  font-size: 0.875rem !important; /* Small size (14px) */
+  opacity: 0.7; /* Slight transparency for a subtle effect */
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  opacity: 1; /* Full opacity on hover */
+}
+
+.swiper-button-disabled {
+  opacity: 0.3 !important; /* Disabled state */
+  pointer-events: none; /* Prevent interaction */
+}
+
+.hero-container {
+  width: 100%;
+  height: 600px;
+  background-image: url('./assets/hero.webp');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.pragati-img {
+  width: 100%;
+  height: 680px;
+  background-image: url('./assets/Nav-bar(Sub-menu) Images/कार्यक्रम/Pragati/Banner.png');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.vidya-img {
+  width: 100%;
+  height: 680px;
+  background-image: url('./assets/Nav-bar(Sub-menu) Images/कार्यक्रम/Vidhya/Vidhya2.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.card {
+  position: relative;
+  text-align: justify;
+  background-color: white;
+  color: black;
+  padding: 10px;
+  /* border: 1px solid #fd645b; */
+}
+
+@property --angle {
+  syntax: '<angle>';
+  initial-value: 0deg;
+  inherits: true;
+}
+
+.card::after,
+.card::before {
+  content: '';
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: conic-gradient(
+    from var(--angle),
+    rgba(0, 0, 255, 0) 60%,
+    #fd645b
+  );
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  z-index: -1;
+  padding: 5px;
+  border-radius: 10px;
+  animation: 4s spin linear infinite;
+}
+.card.card::before {
+  filter: blur(1.5rem);
+  opacity: 0.5;
+}
+
+@keyframes spin {
+  from {
+    --angle: 0deg;
+  }
+  to {
+    --angle: 360deg;
+  }
+}
+.highlight {
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+  padding: 2px;
+}
+.testimonial-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 7;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
