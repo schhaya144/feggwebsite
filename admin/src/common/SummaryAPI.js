@@ -1,5 +1,6 @@
 // const backendDomain = 'https://feggbackend.onrender.com'
-const backendDomain = 'http://localhost:8006'
+// const backendDomain = 'http://localhost:8006'
+const backendDomain = 'https://feggwebsite.onrender.com'
 
 const SummaryApi = {
   addEvent: {
