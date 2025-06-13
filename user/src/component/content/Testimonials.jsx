@@ -150,7 +150,7 @@ const Testimonials = () => {
             640: { slidesPerView: 2 },
             1024: { slidesPerView: 3 },
             1280: { slidesPerView: 4 },
-            1536: { slidesPerView: 4 }, // Change from 5 to 4
+            1536: { slidesPerView: 4 }, // Change from 5 to 7
           }}
           className="pb-10"
         >
